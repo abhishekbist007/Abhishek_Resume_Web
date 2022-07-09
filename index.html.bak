@@ -1,0 +1,684 @@
+<!doctype html>
+<html class="no-js" lang="en">
+
+    <head>
+        <!-- meta data -->
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+        <!--font-family-->
+		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&amp;subset=devanagari,latin-ext" rel="stylesheet">
+        
+        <!-- title of site -->
+        <title>Abhishek Bist</title>
+
+        <!-- For favicon png -->
+		<link rel="shortcut icon" type="image/icon" href="assets/logo/favicon.png"/>
+       
+        <!--font-awesome.min.css-->
+        <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+
+		<!--flat icon css-->
+		<link rel="stylesheet" href="assets/css/flaticon.css">
+
+		<!--animate.css-->
+        <link rel="stylesheet" href="assets/css/animate.css">
+
+        <!--owl.carousel.css-->
+        <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+		<link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
+		
+        <!--bootstrap.min.css-->
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+		
+		<!-- bootsnav -->
+		<link rel="stylesheet" href="assets/css/bootsnav.css" >	
+        
+        <!--style.css-->
+        <link rel="stylesheet" href="assets/css/style.css">
+        
+        <!--responsive.css-->
+        <link rel="stylesheet" href="assets/css/responsive.css">
+        
+        <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		
+        <!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+			<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+    </head>
+	
+	<body>
+		<!--[if lte IE 9]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+        <![endif]-->
+		
+		<!-- top-area Start -->
+		<header class="top-area">
+			<div class="header-area">
+				<!-- Start Navigation -->
+			    <nav class="navbar navbar-default bootsnav navbar-fixed dark no-background">
+
+			        <div class="container">
+
+			            <!-- Start Header Navigation -->
+			            <div class="navbar-header">
+			                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+			                    <i class="fa fa-bars"></i>
+			                </button>
+			                <a class="navbar-brand" href="index.html">Bist, Abhishek</a>
+			            </div><!--/.navbar-header-->
+			            <!-- End Header Navigation -->
+
+			            <!-- Collect the nav links, forms, and other content for toggling -->
+			            <div class="collapse navbar-collapse menu-ui-design" id="navbar-menu">
+			                <ul class="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOutUp">
+			                <li class=" smooth-menu active"></li>
+							    <li class=" smooth-menu"><a href="#welcome-hero">home</a></li>
+								<li class=" smooth-menu"><a href="#about">about</a></li>
+								<li class="smooth-menu"><a href="#certification">certification</a></li>								
+			                    <li class=" smooth-menu"><a href="#education">education</a></li>
+			                    <li class="smooth-menu"><a href="#skills">skills</a></li>
+			                    <li class="smooth-menu"><a href="#experience">experience</a></li>
+			                    <li class="smooth-menu"><a href="#contact">contact</a></li>
+			                </ul><!--/.nav -->
+			            </div><!-- /.navbar-collapse -->
+			        </div><!--/.container-->
+			    </nav><!--/nav-->
+			    <!-- End Navigation -->
+			</div><!--/.header-area-->
+
+		    <div class="clearfix"></div>
+
+		</header><!-- /.top-area-->
+		<!-- top-area End -->
+	
+		<!--welcome-hero start -->
+		<section id="welcome-hero" class="welcome-hero">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 text-center">
+						<div class="header-text">
+							<h2>hi <span>,</span> i am <br> Abhishek <br> Bist <span>.</span>   </h2>
+							<p>Docker and Kubernetes Engineeer</p>
+							<a href="assets/download/Abhishek_Bist_Resume.pdf" download>download resume</a>
+						</div><!--/.header-text-->
+					</div><!--/.col-->
+				</div><!-- /.row-->
+			</div><!-- /.container-->
+
+		</section><!--/.welcome-hero-->
+		<!--welcome-hero end -->
+
+		<!--about start -->
+		<section id="about" class="about">
+			<div class="section-heading text-center">
+				<h2>about me</h2>
+			</div>
+			<div class="container">
+				<div class="about-content">
+					<div class="row">
+						<div class="col-sm-6">
+							<div class="single-about-txt">
+								<h3>
+									I am a intermediate Docker and Kubernetes Engineer. Working with Ericsson as a Integration Engineer where we are deploying kubernetes cluster over the openstack environment using ericsson service product called ECCD (Ericsson Cloud Container Distribution).
+								</h3>
+								<p>
+									Looking forward to new role in the industry where I can learn new technologies as a Devops Engineer, If my profile looks suitable to your requirement feel free to connect with me all the detailing are mentioned in this page and you may download my resume as well for further details.
+								</p>
+								<div class="row">
+									<div class="col-sm-4">
+										<div class="single-about-add-info">
+											<h3>phone</h3>
+											<p>+91 9711957444</p>
+										</div>
+									</div>
+									<div class="col-sm-4">
+										<div class="single-about-add-info">
+											<h3>email</h3>
+											<p>abhishekbist.bisht5@gmail.com</p>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-offset-1 col-sm-5">
+							<div class="single-about-img">
+								<img src="assets/images/about/profile_image.jpg" alt="profile_image">
+								<div class="about-list-icon">
+									<ul>
+										<li>
+											<a href="https://www.facebook.com/abhishek.bisht.92775/">
+												<i  class="fa fa-facebook" aria-hidden="true"></i>
+											</a>
+										</li><!-- / li -->
+										<li>
+											<a href="https://twitter.com/AbhishekBist6">
+												<i  class="fa fa-twitter" aria-hidden="true"></i>
+											</a>
+											
+										</li><!-- / li -->
+										<li>
+											<a href="https://www.linkedin.com/in/abhishek-bist/">
+												<i  class="fa fa-linkedin" aria-hidden="true"></i>
+											</a>
+										</li><!-- / li -->
+										
+										
+										
+									</ul><!-- / ul -->
+								</div><!-- /.about-list-icon -->
+
+							</div>
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</section><!--/.about-->
+		<!--about end -->
+		
+		<!--Certification -->
+		<section id="certification" class="certification">
+			<div class="section-heading text-center">
+				<h2>certification</h2>
+			</div>
+			<div class="container">
+				<div class="about-content">
+					<div class="row">
+						<div class="col-sm-20">
+							<div class="single-about-txt">
+									<h1><img src="assets/images/about/CCNA.jpg" height="200" width="200" border="0"> Global CCNA Certified, CISCO ID: CSCO13292044.</h1>
+									<h1><img src="assets/images/about/Redhat.jpg" height="100" width="200" border="0"> RED HAT ACCREDITED PROFESSIONAL global certified.<br><br></h1>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section><!--/.certification-->
+		<!--Certification -->
+		
+		
+		<!--education start -->
+		<section id="education" class="education">
+			<div class="section-heading text-center">
+				<h2>education</h2>
+			</div>
+			<div class="container">
+				<div class="education-horizontal-timeline">
+					<div class="row">
+						<div class="col-sm-4">
+							<div class="single-horizontal-timeline">
+								<div class="experience-time">
+									<h2>2014 - 2017</h2>
+									<h3>Bachelor <span>of </span> computer science & Enginerring</h3>
+								</div><!--/.experience-time-->
+								<div class="timeline-horizontal-border">
+									<i class="fa fa-circle" aria-hidden="true"></i>
+									<span class="single-timeline-horizontal"></span>
+								</div>
+								<div class="timeline">
+									<div class="timeline-content">
+										<h4 class="title">
+										    AMBEDKAR INSTITUTE OF ADVANCED COMMUNICATION TECHNOLOGIES & RESEARCH
+											<br><br>
+											Guru Gobind Singh Indraprastha University
+										</h4>
+										<h5>Dwarka Sector-16, New Delhi, India</h5>
+										<p class="description">
+											Guru Gobind Singh Indraprastha University, formerly Indraprastha University, is a state university located in Delhi, India. It was established in 1998 as a teaching-cum-affiliating university.  
+										</p>
+									</div><!--/.timeline-content-->
+								</div><!--/.timeline-->
+							</div>
+						</div>
+						<div class="col-sm-4">
+							<div class="single-horizontal-timeline">
+								<div class="experience-time">
+									<h2>2011 - 2014</h2>
+									<h3>Diploma <span>of </span> computer science & Engineering</h3>
+								</div><!--/.experience-time-->
+								<div class="timeline-horizontal-border">
+									<i class="fa fa-circle" aria-hidden="true"></i>
+									<span class="single-timeline-horizontal"></span>
+								</div>
+								<div class="timeline">
+									<div class="timeline-content">
+										<h4 class="title">
+										    GURU TEGH BAHADUR POLYTECHNIC INSTITUTE<br><br><br>
+											Board of Technical Eduacation
+										</h4>
+										<h5>Pitampura, Delhi, India</h5>
+										<p class="description">
+										Directorate of Training and Technical Education is entrusted with the responsibility of providing trained technical manpower for the technological upgradation of industrial production, services, productivity and innovation, contributing to the planned growth of the country's economy. With a view to achieving the above objective, Department strives for systematic planning, development, implementation, monitoring and evaluation of programmes and policies relating to technical/vocational education. 
+										</p>
+									</div><!--/.timeline-content-->
+								</div><!--/.timeline-->
+							</div>
+						</div>
+						<div class="col-sm-4">
+							<div class="single-horizontal-timeline">
+								<div class="experience-time">
+									<h2>2009 - 2011</h2>
+									<h3>Secondary Education</h3>
+								</div><!--/.experience-time-->
+								<div class="timeline-horizontal-border">
+									<i class="fa fa-circle" aria-hidden="true"></i>
+									<span class="single-timeline-horizontal spacial-horizontal-line
+									"></span>
+								</div>
+								<div class="timeline">
+									<div class="timeline-content">
+										<h4 class="title">
+											 GYAN JYOTI PUBLIC SENIOR SECONDARY SCHOOL<br><br><br>
+											 Central Board of Secondary Education
+										</h4>
+										<h5>Chhawala, Delhi, India</h5>
+										<p class="description">
+											The CBSE envisions a robust, vibrant and holistic school education that will engender excellence in every sphere of human endeavour. The Board is committed to provide quality education to promote intellectual, social and cultural vivacity among its learners. It works towards evolving a learning process and environment, which empowers the future citizens to become global leaders in the emerging knowledge society. The Board advocates Continuous and Comprehensive Evaluation with an emphasis on holistic development of learners. The Board commits itself to providing a stress-free learning environment that will develop competent, confident and enterprising citizens who will promote harmony and peace. 
+										</p>
+									</div><!--/.timeline-content-->
+								</div><!--/.timeline-->
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		</section><!--/.education-->
+		<!--education end -->
+
+		<!--skills start -->
+		<section id="skills" class="skills">
+				<div class="skill-content">
+					<div class="section-heading text-center">
+						<h2>skills</h2>
+					</div>
+					<div class="container">
+						<div class="row">
+							<div class="col-md-6">
+								<div class="single-skill-content">
+									<div class="barWrapper">
+										<span class="progressText">Linux</span>
+										<div class="single-progress-txt">
+											<div class="progress ">
+												<div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="100" aria-valuemax="100" style="">
+													  
+												</div>
+											</div>
+											<h3>60%</h3>	
+										</div>
+									</div><!-- /.barWrapper -->
+									<div class="barWrapper">
+										<span class="progressText">Networking</span>
+										<div class="single-progress-txt">
+											<div class="progress ">
+											   <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="10" aria-valuemax="100" style="">
+												    
+											   </div>
+											</div>
+											<h3>60%</h3>	
+										</div>
+									</div><!-- /.barWrapper -->
+									<div class="barWrapper">
+										<span class="progressText">Bash</span>
+										<div class="single-progress-txt">
+											<div class="progress ">
+											   <div class="progress-bar" role="progressbar" aria-valuenow="35" aria-valuemin="10" aria-valuemax="100" style="">
+												   
+											   </div>
+											</div>
+											<h3>35%</h3>	
+										</div>
+									</div><!-- /.barWrapper -->
+									<div class="barWrapper">
+										<span class="progressText">Ansible</span>
+										<div class="single-progress-txt">
+											<div class="progress ">
+											   <div class="progress-bar" role="progressbar" aria-valuenow="20" aria-valuemin="10" aria-valuemax="100" style="">
+												    
+											   </div>
+											</div>
+											<h3>20%</h3>	
+										</div>
+									</div><!-- /.barWrapper -->
+								</div>
+							</div>
+							<div class="col-md-6">
+								<div class="single-skill-content">
+									<div class="barWrapper">
+										<span class="progressText">Docker</span>
+										<div class="single-progress-txt">
+											<div class="progress ">
+												<div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="10" aria-valuemax="100" style="">
+													
+												</div>
+											</div>
+											<h3>50%</h3>	
+										</div>
+									</div><!-- /.barWrapper -->
+									<div class="barWrapper">
+										<span class="progressText">Kubernetes</span>
+										<div class="single-progress-txt">
+											<div class="progress ">
+											   <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="10" aria-valuemax="100" style="">
+												    
+											   </div>
+											</div>
+											<h3>75%</h3>	
+										</div>
+									</div><!-- /.barWrapper -->
+									<div class="barWrapper">
+										<span class="progressText">AWS</span>
+										<div class="single-progress-txt">
+											<div class="progress ">
+											   <div class="progress-bar" role="progressbar" aria-valuenow="30" aria-valuemin="10" aria-valuemax="100" style="">
+												   
+											   </div>
+											</div>
+											<h3>30%</h3>	
+										</div>
+									</div><!-- /.barWrapper -->
+									<div class="barWrapper">
+										<span class="progressText"> GIT</span>
+										<div class="single-progress-txt">
+											<div class="progress ">
+											   <div class="progress-bar" role="progressbar" aria-valuenow="40" aria-valuemin="10" aria-valuemax="100" style="">
+												    
+											   </div>
+											</div>
+											<h3>40%</h3>	
+										</div>
+									</div><!-- /.barWrapper -->
+								</div>
+							</div>
+						</div><!-- /.row -->
+					</div>	<!-- /.container -->		
+				</div><!-- /.skill-content-->
+
+		</section><!--/.skills-->
+		<!--skills end -->
+
+		<!--experience start -->
+		<section id="experience" class="experience">
+			<div class="section-heading text-center">
+				<h2>experience</h2>
+			</div>
+			<div class="container">
+				<div class="experience-content">
+						<div class="main-timeline">
+							<ul>
+								<li>
+									<div class="single-timeline-box fix">
+										<div class="row">
+											<div class="col-md-5">
+												<div class="experience-time text-right">
+													<h2>July 2019 - Present</h2>
+													<h3>Associate-II Engineer</h3>
+												</div><!--/.experience-time-->
+											</div><!--/.col-->
+											<div class="col-md-offset-1 col-md-5">
+												<div class="timeline">
+													<div class="timeline-content">
+														<h4 class="title">
+															<span><i class="fa fa-circle" aria-hidden="true"></i></span>
+															 CAPGEMINI ENGINEERING (EARLIER ALTRAN)
+														</h4>
+														<h5>Gurgaon, Delhi NCR</h5>
+														<p style="color:green"><b>Project Name: BVM-11 (Working with Ericsson as an ARP)<br>
+															November 2021 – Present</b></p>
+														<p class="description">
+															Part of Infra and Deployment team, where we configure switches at SDI level and deploy ECCD cluster version as per the requirement.
+														</p>
+														<h5 style="color:green">Roles & Responsibilities:</h5>
+														<ol type="1" class="description" >
+															<li>Configuration of switches, verification of ports, adding computes to SDI manager and make compute discover.</li><br>
+															<li>Creation of certificate using openssl and converting the qcow images to raw and uploading them into glance server.</li><br>
+															<li>Flavour and Network creation on openstack</li><br>
+															<li>Deployment of ECCD clusters and perform post deployment configuration, like DEX server, Prometheus and some changes in running pods etc.</li><br>
+															<li>Cluster upgrade, Redployment modification on running cluster respect of cluster or addition of additional cluster and network vnf modification.</li><br>
+														</ol>
+														<p style="color:green"><b>Project Name: CIS (Customer Interaction System)<br>
+															March 2021 – November 2021</b></p>
+														<p class="description">
+															Part of Infra and Deployment team, where we deploy pod on kubernetes cluster, and monitor and manage them as well.
+														</p>
+														<h5 style="color:green">Roles & Responsibilities:</h5>
+														<ol class="description">
+															<li>Deployment and configuration of docker and rancher including configuring private registry for images</li><br>
+															<li>Setting up custom monitoring metrics/analysis/alarms via Prometheus and Grafana</li><br>
+															<li>Linux MBSS configurations and automations</li><br>
+															<li>Utilized configuration & automation tools such as a Ansible. </li><br>
+														</ol>
+														<p style="color:green"><b>Project Name: ISSI<br>
+															January 2020 - March 2021</b></p>
+														<p class="description">
+															Part of validation team, where I worked with the Ghn devices which communicate over power line.
+														</p>
+														<h5 style="color:green">Roles & Responsibilities:</h5>
+														<ol class="description">
+															<li>Perform different-different type of testing as per requirement. Sanity, System, Stress, Functional, Feature, Regression, Performance testing.</li><br>
+															<li>Upgrade & Downgrade devices as new Firmware releases given by development team.</li><br>
+															<li>Test Plan Writing.</li><br>
+															<li>Monitor throughput and assert on devices.</li><br>
+															<li>Monitor network stability with other Ghn devices. </li><br>
+															<li>Perform operation on devices with the help of API as per requirement.</li><br>
+														</ol>
+														<p style="color:green"><b>Project Name: NEC<br>
+															July 2019 – January 2020</b></p>
+														<p class="description">
+															Part of L2Support/ validation team and work on RAN network of 3G and 4G, take cake of Firewall and perform testing.
+														</p>
+														<h5 style="color:green">Roles & Responsibilities:</h5>
+														<ol class="description">
+															<li>Taken care of firewall and monitoring the alarm.</li><br>
+															<li>Perform Functional testing and stress testing.</li><br>
+															<li>Test plan writing, debugging etc.</li><br>
+														</ol>
+													</div><!--/.timeline-content-->
+												</div><!--/.timeline-->
+											</div><!--/.col-->
+										</div>
+									</div><!--/.single-timeline-box-->
+								</li>
+
+								<li>
+									<div class="single-timeline-box fix">
+										<div class="row">
+											<div class="col-md-offset-1 col-md-5 experience-time-responsive">
+												<div class="experience-time">
+													<h2>
+														<span><i class="fa fa-circle" aria-hidden="true"></i></span>
+														SEPT 2018 – JULY 2019
+													</h2>
+													<h3>IT EXECUTIVE</h3>
+												</div><!--/.experience-time-->
+											</div><!--/.col-->
+											<div class="col-md-5">
+												<div class="timeline">
+													<div class="timeline-content text-right">
+														<h4 class="title">
+															 INTERGLOBE AVAIATION (INDIGO)
+														</h4>
+														<h5>IGI Airport, Delhi</h5>
+														<p class="description">
+															As a part of local IT team, dealing with company employees and vendor teams to resolve the employees query as per SLA. 
+														</p>
+														<h5 style="color:green">Roles & Responsibilities:</h5>
+														<ol class="description">
+															<li>Use BMC remedy tool to track the assigned ticket and as per the user description take and appropriate action to resolve the assigned ticket.</li><br>
+															<li>Provide remote support using BMC remedy, AnyDesk and RDP, skype.</li><br>
+															<li>Working with network team when network outage occurs.</li><br>
+															<li>Configure Desktop/ Laptop/ Printer and installation of Windows/ Antivirus/ System Drivers/ and different- different application as per required by departments.</li><br>
+															<li>Solve outlook related issue.</li><br>
+															<li>Coordinate with Biometric team for installation and perform operation on it.</li><br>
+														</ol>
+													</div><!--/.timeline-content-->
+												</div><!--/.timeline-->
+											</div><!--/.col-->
+											<div class="col-md-offset-1 col-md-5 experience-time-main">
+												<div class="experience-time">
+													<h2>
+														<span><i class="fa fa-circle" aria-hidden="true"></i></span>
+														SEPT 2018 – JULY 2019
+													</h2>
+													<h3>IT EXECUTIVE</h3>
+												</div><!--/.experience-time-->
+											</div><!--/.col-->
+										</div>
+									</div><!--/.single-timeline-box-->
+								</li>
+							</ul>
+						</div><!--.main-timeline-->
+					</div><!--.experience-content-->
+			</div>
+
+		</section><!--/.experience-->
+		<!--experience end -->
+
+		<!--contact start -->
+		<section id="contact" class="contact">
+			<div class="section-heading text-center">
+				<h2>contact me</h2>
+			</div>
+			<div class="container">
+				<div class="contact-content">
+					<div class="row">
+						<div class="col-md-offset-1 col-md-5 col-sm-6">
+							<div class="single-contact-box">
+								<div class="contact-form">
+									<form>
+										<div class="row">
+											<div class="col-sm-6 col-xs-12">
+												<div class="form-group">
+												  <input type="text" class="form-control" id="name" placeholder="Name*" name="name">
+												</div><!--/.form-group-->
+											</div><!--/.col-->
+											<div class="col-sm-6 col-xs-12">
+												<div class="form-group">
+													<input type="email" class="form-control" id="email" placeholder="Email*" name="email">
+												</div><!--/.form-group-->
+											</div><!--/.col-->
+										</div><!--/.row-->
+										<div class="row">
+											<div class="col-sm-12">
+												<div class="form-group">
+													<input type="text" class="form-control" id="subject" placeholder="Subject" name="subject">
+												</div><!--/.form-group-->
+											</div><!--/.col-->
+										</div><!--/.row-->
+										<div class="row">
+											<div class="col-sm-12">
+												<div class="form-group">
+													<textarea class="form-control" rows="8" id="comment" placeholder="Message" ></textarea>
+												</div><!--/.form-group-->
+											</div><!--/.col-->
+										</div><!--/.row-->
+										<div class="row">
+											<div class="col-sm-12">
+												<div class="single-contact-btn">
+													<a class="contact-btn" href="#" role="button">submit</a>
+												</div><!--/.single-single-contact-btn-->
+											</div><!--/.col-->
+										</div><!--/.row-->
+									</form><!--/form-->
+								</div><!--/.contact-form-->
+							</div><!--/.single-contact-box-->
+						</div><!--/.col-->
+						<div class="col-md-offset-1 col-md-5 col-sm-6">
+							<div class="single-contact-box">
+								<div class="contact-adress">
+									<div class="contact-add-head">
+										<h3>Abhishek Bist</h3>
+										<p>Docker & Kubernetes Engineeer</p>
+									</div>
+									<div class="contact-add-info">
+										<div class="single-contact-add-info">
+											<h3>phone</h3>
+											<p>+91 9711957444</p>
+										</div>
+										<div class="single-contact-add-info">
+											<h3>email</h3>
+											<p>abhishekbisht.bisht5@gmail.com</p>
+										</div>
+									</div>
+								</div><!--/.contact-adress-->
+								<div class="hm-foot-icon">
+									<ul>
+										<li><a href="https://www.facebook.com/abhishek.bisht.92775/"><i class="fa fa-facebook"></i></a></li><!--/li-->
+										<li><a href="https://twitter.com/AbhishekBist6"><i class="fa fa-twitter"></i></a></li><!--/li-->
+										<li><a href="https://www.linkedin.com/in/abhishek-bist/"><i class="fa fa-linkedin"></i></a></li><!--/li-->
+									</ul><!--/ul-->
+								</div><!--/.hm-foot-icon-->
+							</div><!--/.single-contact-box-->
+						</div><!--/.col-->
+					</div><!--/.row-->
+				</div><!--/.contact-content-->
+			</div><!--/.container-->
+
+		</section><!--/.contact-->
+		<!--contact end -->
+
+		<!--footer-copyright start-->
+		<footer id="footer-copyright" class="footer-copyright">
+			<div class="container">
+				<div class="hm-footer-copyright text-center">
+					<p>
+						&copy; Design and developed by Abhishek Bist</a>
+					</p><!--/p-->
+				</div><!--/.text-center-->
+			</div><!--/.container-->
+
+			<div id="scroll-Top">
+				<div class="return-to-top">
+					<i class="fa fa-angle-up " id="scroll-top" ></i>
+				</div>
+				
+			</div><!--/.scroll-Top-->
+			
+        </footer><!--/.footer-copyright-->
+		<!--footer-copyright end-->
+		
+		<!-- Include all js compiled plugins (below), or include individual files as needed -->
+
+		<script src="assets/js/jquery.js"></script>
+        
+        <!--modernizr.min.js-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+		
+		<!--bootstrap.min.js-->
+        <script src="assets/js/bootstrap.min.js"></script>
+		
+		<!-- bootsnav js -->
+		<script src="assets/js/bootsnav.js"></script>
+		
+		<!-- jquery.sticky.js -->
+		<script src="assets/js/jquery.sticky.js"></script>
+		
+		<!-- for progress bar start-->
+
+		<!-- progressbar js -->
+		<script src="assets/js/progressbar.js"></script>
+
+		<!-- appear js -->
+		<script src="assets/js/jquery.appear.js"></script>
+
+		<!-- for progress bar end -->
+
+		<!--owl.carousel.js-->
+        <script src="assets/js/owl.carousel.min.js"></script>
+
+
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+		
+        
+        <!--Custom JS-->
+        <script src="assets/js/custom.js"></script>
+        
+    </body>
+	
+</html>
